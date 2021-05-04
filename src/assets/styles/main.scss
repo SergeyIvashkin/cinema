@@ -1,0 +1,25 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    color: #474747;
+  }
+  
+  body {
+    background-color: #141414eb;
+  }
+  
+  h1, h2, h3, h4 {
+    font-weight: 700;
+    color: #333333;
+    margin-top: 0;
+  }
+  
+  .flex {
+    display: flex;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    // margin-top: 40px;
+  }
